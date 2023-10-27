@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muhammadalifizuddin@graduate.utm.my**
 
-- ⚡ Fun fact **I am a**
+- ⚡ Fun fact **I love GitHub**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
