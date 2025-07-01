@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/alfzdn" target="blank"><img src="https://img.shields.io/twitter/follow/alfzdn?logo=twitter&style=for-the-badge" alt="alfzdn" /></a> </p>
 
-- 🌱 I’m currently learning **Database (SECD2523)**
-
 - 📫 How to reach me **muhammadalifizuddin@graduate.utm.my**
 
 - ⚡ Fun fact **I love GitHub**
