@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alif Izuddin</h1>
-<h3 align="center">💻 Computer Science Student (Graphics Software & Multimedia) | Universiti Teknologi Malaysia, Johor Bahru</h3>
+<h3 align="center">💻 Computer Science (Graphics Software & Multimedia) Graduate | Universiti Teknologi Malaysia, Johor Bahru</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alifizuddin&label=Profile%20views&color=0e75b6&style=flat" alt="alifizuddin" />
@@ -11,11 +11,11 @@
 ---
 
 ### 🧠 About Me  
-- 🎓 I'm currently pursuing **Bachelor of Computer Science (Graphics Software & Multimedia)** at **UTM Johor Bahru**  
-- 💡 Passionate about **UI/UX Design**, **Web Development**, and **Immersive Technologies (VR/AR)**  
+- 🎓 **Bachelor of Computer Science (Graphics Software & Multimedia)** graduate at **UTM Johor Bahru**  
+- 💡 Passionate about **UI/UX Design** and **Web Development**
 - 🧰 Currently learning **Laravel**, **React**, **Docker**, and **Machine Learning for UX**  
-- 🧑‍💻 Love to experiment with **creative coding** and **metaverse projects**  
-- 📫 Reach me at **muhammadalifizuddin@graduate.utm.my**  
+- 🧑‍💻 Love to experiment with **creative coding**
+- 📫 Reach me at **alifizuddin19@gmail.com**  
 - ⚡ Fun fact: **I break things just to learn how to fix them!**  
 
 ---
@@ -38,7 +38,7 @@
 
 ### 🧩 Featured Projects
 - 🎵 **MetaGallery VR** – Virtual art gallery with hand-tracking using **MediaPipe**, **Photon**, and **Oculus Quest**  
-- 💼 **Venue Management System** – Built using **Laravel + React + SQLite**  
+- 💼 **Venue Management System** – Built using **Laravel + React + MySQL**  
 - 🌍 **Community Resource Platform** – RIA app built in **Angular**, supporting **SDG 1: No Poverty**  
 - 🧪 **MLP-BP Experiment** – Python ML project comparing **Weka vs Python** for classification performance  
 
