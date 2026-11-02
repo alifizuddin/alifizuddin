@@ -1,6 +1,6 @@
 # Hi, I'm Alif Izuddin 👋
 
-### Computer Science Graduate | Full-Stack Developer | UI/UX Enthusiast
+### Computer Science Graduate
 
 I'm a Computer Science graduate from **Universiti Teknologi Malaysia (UTM)**, specializing in Graphics Software and Multimedia. I'm interested in building functional, user-focused applications by combining software development, creative problem-solving, and thoughtful design.
 
@@ -60,7 +60,7 @@ A selection of projects I've worked on, exploring different areas of software de
 
 | Project | Description | Technologies |
 |---|---|---|
-| **[SmartFin360](REPOSITORY_URL)** | Briefly describe the project, its purpose, and the problem it solves. | Laravel, MySQL, n8n |
+| **[SmartFin360](https://github.com/alifizuddin/smart-fin)** | Briefly describe the project, its purpose, and the problem it solves. | Laravel, MySQL, n8n |
 | **[Venue Management System](REPOSITORY_URL)** | A web-based venue booking and management application built with React, Laravel, and MySQL. | React, Laravel, TypeScript, MySQL |
 | **[HelpLink - Community Resource Platform](REPOSITORY_URL)** | An Angular-based application supporting SDG 1: No Poverty through community resource discovery. | Angular, TypeScript |
 | **[Fake News Detection using SVM](REPOSITORY_URL)** | Describe an interesting technical implementation or creative project. | Python, Machine Learning |
