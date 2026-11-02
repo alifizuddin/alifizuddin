@@ -61,23 +61,9 @@ A selection of projects I've worked on, exploring different areas of software de
 | Project | Description | Technologies |
 |---|---|---|
 | **[SmartFin360](REPOSITORY_URL)** | Briefly describe the project, its purpose, and the problem it solves. | Laravel, MySQL, n8n |
-| **[Venue Management System](REPOSITORY_URL)** | Briefly describe the application and its key features. | React, Laravel, TypeScript, MySQL |
-| **[HelpLink](REPOSITORY_URL)** | Briefly describe the application and its key features. | Angular, TypeScript |
+| **[Venue Management System](REPOSITORY_URL)** | A web-based venue booking and management application built with React, Laravel, and MySQL. | React, Laravel, TypeScript, MySQL |
+| **[HelpLink - Community Resource Platform](REPOSITORY_URL)** | An Angular-based application supporting SDG 1: No Poverty through community resource discovery. | Angular, TypeScript |
 | **[Fake News Detection using SVM](REPOSITORY_URL)** | Describe an interesting technical implementation or creative project. | Python, Machine Learning |
-
-> Replace the placeholders with your actual repository names, URLs, and technology stacks.
-
----
-
-## Other Projects & Experiments
-
-Some additional projects worth exploring:
-
-- **MetaGallery VR** – A virtual art gallery featuring hand-tracking interactions using MediaPipe, Photon, and Oculus Quest.
-- **Venue Management System** – A web-based venue booking and management application built with React, Laravel, and MySQL.
-- **Community Resource Platform** – An Angular-based application supporting SDG 1: No Poverty through community resource discovery.
-- **MLP-BP Experiment** – A machine learning experiment comparing Weka and Python for classification performance.
-
 ---
 
 ## GitHub Statistics
