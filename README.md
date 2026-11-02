@@ -66,15 +66,22 @@ A selection of projects I've worked on, exploring different areas of software de
 | **[Fake News Detection using SVM](https://github.com/alifizuddin/fake-news-detection-using-svm)** | Describe an interesting technical implementation or creative project. | Python, Machine Learning |
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alifizuddin&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alifizuddin&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alifizuddin&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifizuddin&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+  <img src="https://komarev.com/ghpvc/?username=alifizuddin&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## What I'm Working With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,laravel,php,js,ts,python,mysql,docker,figma" alt="Technologies" />
 </p>
 
 ---
