@@ -1,69 +1,98 @@
-<h1 align="center">Hi 👋, I'm Alif Izuddin</h1>
-<h3 align="center">💻 Computer Science (Graphics Software & Multimedia) Graduate | Universiti Teknologi Malaysia, Johor Bahru</h3>
+# Hi, I'm Alif Izuddin 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alifizuddin&label=Profile%20views&color=0e75b6&style=flat" alt="alifizuddin" />
-  <a href="https://twitter.com/alfzdn" target="blank">
-    <img src="https://img.shields.io/twitter/follow/alfzdn?logo=twitter&style=flat" alt="Twitter Follow" />
+### Computer Science Graduate | Full-Stack Developer | UI/UX Enthusiast
+
+I'm a Computer Science graduate from **Universiti Teknologi Malaysia (UTM)**, specializing in Graphics Software and Multimedia. I'm interested in building functional, user-focused applications by combining software development, creative problem-solving, and thoughtful design.
+
+I enjoy exploring new technologies, developing web applications, and experimenting with creative coding.
+
+- 🎓 **Education:** Bachelor of Computer Science (Graphics Software & Multimedia), UTM
+- 💻 **Interests:** Full-Stack Development, UI/UX Design, Creative Technology
+- 🌱 **Currently Exploring:** Laravel, React, Docker, and Machine Learning
+- 📫 **Email:** [alifizuddin19@gmail.com](mailto:alifizuddin19@gmail.com)
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/muhammad-alif-izuddin-bin-azman-62a327257">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/alfzdn">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/alfzdn">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:alifizuddin19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🎓 **Bachelor of Computer Science (Graphics Software & Multimedia)** graduate at **UTM Johor Bahru**  
-- 💡 Passionate about **UI/UX Design** and **Web Development**
-- 🧰 Currently learning **Laravel**, **React**, **Docker**, and **Machine Learning for UX**  
-- 🧑‍💻 Love to experiment with **creative coding**
-- 📫 Reach me at **alifizuddin19@gmail.com**  
-- ⚡ Fun fact: **I break things just to learn how to fix them!**  
+## Technical Skills
 
----
+**Languages**
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/alfzdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfzdn" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/muhammad-alif-izuddin-bin-azman-62a327257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/alfzdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,java" alt="Programming languages" />
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,laravel,flask" alt="Frameworks and libraries" />
+</p>
+
+**Databases & Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github,vscode,figma" alt="Databases and development tools" />
 </p>
 
 ---
 
-### ⚙️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,java,laravel,react,angular,flask,sqlite,mysql" /></a>
-</p>
+## Featured Projects
+
+A selection of projects I've worked on, exploring different areas of software development and creative technology.
+
+| Project | Description | Technologies |
+|---|---|---|
+| **[SmartFin360](REPOSITORY_URL)** | Briefly describe the project, its purpose, and the problem it solves. | Laravel, MySQL, n8n |
+| **[Venue Management System](REPOSITORY_URL)** | Briefly describe the application and its key features. | React, Laravel, TypeScript, MySQL |
+| **[HelpLink](REPOSITORY_URL)** | Briefly describe the application and its key features. | Angular, TypeScript |
+| **[Fake News Detection using SVM](REPOSITORY_URL)** | Describe an interesting technical implementation or creative project. | Python, Machine Learning |
+
+> Replace the placeholders with your actual repository names, URLs, and technology stacks.
 
 ---
 
-### 🧩 Featured Projects
-- 🎵 **MetaGallery VR** – Virtual art gallery with hand-tracking using **MediaPipe**, **Photon**, and **Oculus Quest**  
-- 💼 **Venue Management System** – Built using **Laravel + React + MySQL**  
-- 🌍 **Community Resource Platform** – RIA app built in **Angular**, supporting **SDG 1: No Poverty**  
-- 🧪 **MLP-BP Experiment** – Python ML project comparing **Weka vs Python** for classification performance  
+## Other Projects & Experiments
+
+Some additional projects worth exploring:
+
+- **MetaGallery VR** – A virtual art gallery featuring hand-tracking interactions using MediaPipe, Photon, and Oculus Quest.
+- **Venue Management System** – A web-based venue booking and management application built with React, Laravel, and MySQL.
+- **Community Resource Platform** – An Angular-based application supporting SDG 1: No Poverty through community resource discovery.
+- **MLP-BP Experiment** – A machine learning experiment comparing Weka and Python for classification performance.
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Statistics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alifizuddin&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alifizuddin&theme=tokyonight" alt="GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alifizuddin&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alifizuddin&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifizuddin&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifizuddin&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=alifizuddin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+<p align="center">
+  <i>Building, experimenting, and learning one project at a time.</i>
 </p>
-
----
-
-### 💬 Quote to Code By  
-> *"Code is like art — you don’t just build it, you craft it."* 🎨
-
----
