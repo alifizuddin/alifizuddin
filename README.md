@@ -61,8 +61,8 @@ A selection of projects I've worked on, exploring different areas of software de
 | Project | Description | Technologies |
 |---|---|---|
 | **[SmartFin360](https://github.com/alifizuddin/smart-fin)** | Briefly describe the project, its purpose, and the problem it solves. | Laravel, MySQL, n8n |
-| **[Venue Management System](REPOSITORY_URL)** | A web-based venue booking and management application built with React, Laravel, and MySQL. | React, Laravel, TypeScript, MySQL |
-| **[HelpLink - Community Resource Platform](REPOSITORY_URL)** | An Angular-based application supporting SDG 1: No Poverty through community resource discovery. | Angular, TypeScript |
+| **[Venue Management System](https://github.com/SECV3104-AD-24251/Venue-Management-SystemFC)** | A web-based venue booking and management application built with React, Laravel, and MySQL. | React, Laravel, TypeScript, MySQL |
+| **[HelpLink - Community Resource Platform](https://github.com/alifizuddin/HelpLink-AngularJS)** | An Angular-based application supporting SDG 1: No Poverty through community resource discovery. | Angular, TypeScript |
 | **[Fake News Detection using SVM](https://github.com/alifizuddin/fake-news-detection-using-svm)** | Describe an interesting technical implementation or creative project. | Python, Machine Learning |
 ---
 
